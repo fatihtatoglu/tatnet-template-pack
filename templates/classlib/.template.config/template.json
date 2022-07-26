@@ -1,0 +1,19 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Fatih Tatoğlu",
+    "generatorVersions": "[1.0.0.0-*)",
+    "classifications": [
+        "Common",
+        "Library"
+    ],
+    "identity": "fat-dotnet-template-pack-classlib",
+    "name": "Fatih Tatoğlu Dotnet Core Template Package: Class Library",
+    "shortName": "fat-classlib",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "Company.ClassLibrary1",
+    "defaultName": "ClassLibrary1",
+    "preferNameDirectory": true
+}
