@@ -1,4 +1,4 @@
-namespace Company.Application
+namespace Company.ConsoleApplication1
 {
     using System;
 
