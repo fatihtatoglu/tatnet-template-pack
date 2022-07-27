@@ -15,5 +15,14 @@
     },
     "sourceName": "Company.ConsoleApplication1",
     "defaultName": "ConsoleApp1",
-    "preferNameDirectory": true
+    "preferNameDirectory": true,
+    "guids": [
+        "3eb01719-d085-42ab-a432-2c90d51c8c7b"
+    ],
+    "symbols": {
+        "projectId": {
+            "type": "generated",
+            "generator": "guid"
+        }
+    }
 }
