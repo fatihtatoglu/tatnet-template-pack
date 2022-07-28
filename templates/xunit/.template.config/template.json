@@ -1,0 +1,41 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Fatih Tatoğlu",
+    "generatorVersions": "[1.0.0.0-*)",
+    "classifications": [
+        "Test",
+        "xUnit"
+    ],
+    "identity": "fat-dotnet-template-pack-xunit",
+    "name": "Fatih Tatoğlu Dotnet Core Template Package: xUnit Project",
+    "shortName": "fat-xunit",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "Company.TestProject1",
+    "defaultName": "TestProject1",
+    "preferNameDirectory": true,
+    "guids": [
+        "3eb01719-d085-42ab-a432-2c90d51c8c7b"
+    ],
+    "symbols": {
+        "projectId": {
+            "type": "generated",
+            "generator": "guid"
+        }
+    },
+    "postActions": [
+        {
+            "description": "Restore NuGet packages required by this project.",
+            "manualInstructions": [
+                {
+                    "text": "Run 'dotnet restore'"
+                }
+            ],
+            "actionId": "210D431B-A78B-4D2F-B762-4ED3E3EA9025",
+            "id": "restoreNugetPackages",
+            "continueOnError": true
+        }
+    ]
+}
