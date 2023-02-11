@@ -16,10 +16,10 @@
     <NoWarn>$(NoWarn);NU5128</NoWarn>
     <NoDefaultExcludes>true</NoDefaultExcludes>
 
-    <repository type="git" url="https://github.com/fatihtatoglu/tatnet-template-pack" />
-    <copyright>Fatih Tatoğlu</copyright>
-    <license type="expression">MIT</license>
-    <licenseUrl>https://raw.githubusercontent.com/fatihtatoglu/tatnet-template-pack/master/LICENSE</licenseUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/fatihtatoglu/tatnet-template-pack</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Copyright>Fatih Tatoğlu</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
