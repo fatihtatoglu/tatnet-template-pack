@@ -1,0 +1,39 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Fatih Tatoğlu",
+    "classifications": [
+        "License"
+    ],
+    "name": "TATNet - Apache License",
+    "generatorVersions": "[1.0.0.0-*)",
+    "description": "TATNet Template Package: Apache License v2.0",
+    "tags": {
+        "type": "item"
+    },
+    "identity": "tatnet-template-pack-license-apache",
+    "shortName": "tat-license-apache",
+    "primaryOutputs": [
+        {
+            "path": "LICENSE"
+        },
+        {
+            "path": "FILE_LICENSE_HEADER"
+        }
+    ],
+    "symbols": {
+        "createdDate": {
+            "type": "generated",
+            "generator": "now",
+            "parameters": {
+                "format": "yyyy"
+            },
+            "replaces": "[year]"
+        },
+        "owner": {
+            "type": "parameter",
+            "datatype": "text",
+            "isRequired": true,
+            "replaces": "[name of copyright owner]"
+        }
+    }
+}

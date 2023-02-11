@@ -8,7 +8,8 @@
         "Web"
     ],
     "identity": "tatnet-template-pack-worker",
-    "name": "Fatih Tatoğlu Dotnet Core Template Package: Worker Project",
+    "name": "TATNet - Worker",
+    "description": "TATNet Template Package: Worker Project",
     "shortName": "tat-worker",
     "tags": {
         "language": "C#",

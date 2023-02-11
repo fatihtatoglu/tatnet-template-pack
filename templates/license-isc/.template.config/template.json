@@ -1,0 +1,36 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Fatih Tatoğlu",
+    "classifications": [
+        "License"
+    ],
+    "name": "TATNet - ISC License",
+    "generatorVersions": "[1.0.0.0-*)",
+    "description": "TATNet Template Package: ISC License",
+    "tags": {
+        "type": "item"
+    },
+    "identity": "tatnet-template-pack-license-isc",
+    "shortName": "tat-license-isc",
+    "primaryOutputs": [
+        {
+            "path": "LICENSE"
+        }
+    ],
+    "symbols": {
+        "createdDate": {
+            "type": "generated",
+            "generator": "now",
+            "parameters": {
+                "format": "yyyy"
+            },
+            "replaces": "[year]"
+        },
+        "owner": {
+            "type": "parameter",
+            "datatype": "text",
+            "isRequired": true,
+            "replaces": "[fullname]"
+        }
+    }
+}

@@ -7,7 +7,8 @@
         "xUnit"
     ],
     "identity": "tatnet-template-pack-xunit",
-    "name": "Fatih Tatoğlu Dotnet Core Template Package: xUnit Project",
+    "name": "TATNet - xUnit",
+    "description": "TATNet Template Package: xUnit Project",
     "shortName": "tat-xunit",
     "tags": {
         "language": "C#",
