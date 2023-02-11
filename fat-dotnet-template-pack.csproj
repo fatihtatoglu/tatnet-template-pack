@@ -3,7 +3,7 @@
   <PropertyGroup>
     <PackageType>Template</PackageType>
     <PackageVersion>1.0.0.0</PackageVersion>
-    <PackageId>fat-dotnet-template-pack</PackageId>
+    <PackageId>tatnet-template-pack</PackageId>
     <Title>Fatih Tatoğlu Dotnet Core Template Package</Title>
     <Authors>Fatih Tatoğlu</Authors>
     <Description>Templates to use when creating an application with old C# templates.</Description>

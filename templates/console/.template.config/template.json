@@ -6,9 +6,9 @@
         "Common",
         "Console"
     ],
-    "identity": "fat-dotnet-template-pack-console",
+    "identity": "tatnet-template-pack-console",
     "name": "Fatih Tatoğlu Dotnet Core Template Package: Console Project",
-    "shortName": "fat-console",
+    "shortName": "tat-console",
     "tags": {
         "language": "C#",
         "type": "project"

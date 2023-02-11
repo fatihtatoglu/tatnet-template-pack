@@ -6,9 +6,9 @@
         "Common",
         "Library"
     ],
-    "identity": "fat-dotnet-template-pack-classlib",
+    "identity": "tatnet-template-pack-classlib",
     "name": "Fatih Tatoğlu Dotnet Core Template Package: Class Library",
-    "shortName": "fat-classlib",
+    "shortName": "tat-classlib",
     "tags": {
         "language": "C#",
         "type": "project"

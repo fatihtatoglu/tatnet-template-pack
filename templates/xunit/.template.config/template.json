@@ -6,9 +6,9 @@
         "Test",
         "xUnit"
     ],
-    "identity": "fat-dotnet-template-pack-xunit",
+    "identity": "tatnet-template-pack-xunit",
     "name": "Fatih Tatoğlu Dotnet Core Template Package: xUnit Project",
-    "shortName": "fat-xunit",
+    "shortName": "tat-xunit",
     "tags": {
         "language": "C#",
         "type": "project"
